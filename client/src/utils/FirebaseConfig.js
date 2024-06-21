@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "your apiKey of firebase",
-    authDomain: "your authDomain of firebase",
-    projectId: "your projectId of firebase",
-    storageBucket: "your storageBucket of firebase",
-    messagingSenderId: "your messagingSenderId of firebase",
-    appId: "your appId of firebase",
-    measurementId: "your measurementId of firebaseP"
+    apiKey: "AIzaSyBMhLentkpya2Z6UgwJdEKEbaPWhNLrXbo",
+    authDomain: "caht-app-408709.firebaseapp.com",
+    projectId: "caht-app-408709",
+    storageBucket: "caht-app-408709.appspot.com",
+    messagingSenderId: "1088363640492",
+    appId: "1:1088363640492:web:f1fb4aadd470eee6e05109",
+    measurementId: "G-5QM3304QXP"
 };
 
 const app = initializeApp(firebaseConfig);
